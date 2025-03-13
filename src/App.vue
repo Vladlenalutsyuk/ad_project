@@ -1,3 +1,4 @@
+<!-- Создание динамического меню -->
 <template>
   <v-app>
   <v-navigation-drawer app v-model="drawer">
