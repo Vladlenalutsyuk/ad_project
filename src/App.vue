@@ -1,3 +1,4 @@
+<!-- Верстка меню в дровере -->
 <template>
   <v-app>
   <v-navigation-drawer app v-model="drawer">
